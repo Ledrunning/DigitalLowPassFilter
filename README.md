@@ -1,6 +1,7 @@
-# Multichannel ADC source based on Atmega 168
+# Low pass filter based on Atmega88
+# Using one channel ADC source
 
-* In this project I used Atmel AVR microcontroller Atmega 168 and
+* In this project I used Atmel AVR microcontroller Atmega 88 and
 16 x 2 LCD based on HD44780;
 
 * The project implies external 8 MHz crystal resonator and Precision 5V Voltage Reference;
@@ -11,7 +12,7 @@
 
 * FUSEBIT's setted only in external 8MHz crystal oscillator
 
-![GitHub Logo](https://habrastorage.org/web/359/13b/db5/35913bdb599249b1ae3416ca333a4df0.png)
+![GitHub Logo](https://habrastorage.org/web/87f/f01/55a/87ff0155a3d24cef979a7a6b6979aa34.png)
 
 
 
