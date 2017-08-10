@@ -1,7 +1,7 @@
 /*
  * DigitalLowPassFilter.c
  * This code is not optimized because I used float numbers in sprintf functions
- * And I used this function in ADC interrupt for exaple
+ * 
  * Created: 10.08.2017 16:38:56
  * Author : Mazinov
  */ 
